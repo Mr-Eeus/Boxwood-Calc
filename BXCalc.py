@@ -1,18 +1,3 @@
-# CURRENT STATUS | MAY 15, 2017 |
-#
-# PROGRAM RUNS CORRECTLY FOR SETINFO FUNCTION, MATH IS CORRECT. NEED TO REPEAT
-# FOR PLANTER AND FRAME.
-
-# Currently Still Need :
-# Boxwood Set Info ----- COMPLETED -----
-# Planter Set Info ----- COMPLETED -----
-# Frame Set Info   ----- COMPLETED -----
-# Pricing Calculations ----- COMPLETED IN EXCEL -----
-# Pricing Total ----- (Jannah currently working on this in excel. If it can be done in program, attempt.)
-# Quit Option
-# Executable Version ----- COMPLETED -----
-
-
 import os
 
 PORT = os.getenv("PORT", "8080")
